@@ -1,4 +1,7 @@
 package com.TPFinalGroupAssign.TheatreSystem.Repositories;
 
-public class AdminRepository {
+import TheatreSystem.Domain.Admin;
+import org.springframework.data.repository.CrudRepository;
+
+public interface AdminRepository extends CrudRepository<Admin, Long> {
 }
