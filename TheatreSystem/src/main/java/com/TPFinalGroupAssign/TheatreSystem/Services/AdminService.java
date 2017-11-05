@@ -1,4 +1,6 @@
 package com.TPFinalGroupAssign.TheatreSystem.Services;
 
-public class AdminService {
+import TheatreSystem.Domain.Admin;
+
+public interface AdminService extends Services<Admin, Long> {
 }
