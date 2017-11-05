@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b1c71c33-d07a-439d-86fd-d048b09447c7" name="Default" comment="">
+
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TheatreSystem/src/main/java/com/TPFinalGroupAssign/TheatreSystem/Services/AdminService.java" afterPath="$PROJECT_DIR$/TheatreSystem/src/main/java/com/TPFinalGroupAssign/TheatreSystem/Services/AdminService.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TheatreSystem/src/main/java/com/TPFinalGroupAssign/TheatreSystem/Domain/Admin.java" afterPath="$PROJECT_DIR$/TheatreSystem/src/main/java/com/TPFinalGroupAssign/TheatreSystem/Domain/Admin.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TheatreSystem/src/main/java/com/TPFinalGroupAssign/TheatreSystem/Factories/AdminFactory.java" afterPath="$PROJECT_DIR$/TheatreSystem/src/main/java/com/TPFinalGroupAssign/TheatreSystem/Factories/AdminFactory.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TheatreSystem/src/main/java/com/TPFinalGroupAssign/TheatreSystem/Repositories/AdminRepository.java" afterPath="$PROJECT_DIR$/TheatreSystem/src/main/java/com/TPFinalGroupAssign/TheatreSystem/Repositories/AdminRepository.java" />
+
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,76 +20,7 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="AdminRepository.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TheatreSystem/src/main/java/com/TPFinalGroupAssign/TheatreSystem/Repositories/AdminRepository.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UserRepository.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TheatreSystem/src/main/java/com/TPFinalGroupAssign/TheatreSystem/Repositories/UserRepository.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="60" lean-forward="false" selection-start-line="5" selection-start-column="60" selection-end-line="5" selection-end-column="60" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MovieShowRepository.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TheatreSystem/src/main/java/com/TPFinalGroupAssign/TheatreSystem/Repositories/MovieShowRepository.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="VIPRepository.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TheatreSystem/src/main/java/com/TPFinalGroupAssign/TheatreSystem/Repositories/VIPRepository.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="EconomyRepository.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TheatreSystem/src/main/java/com/TPFinalGroupAssign/TheatreSystem/Repositories/EconomyRepository.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SeatingRepository.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TheatreSystem/src/main/java/com/TPFinalGroupAssign/TheatreSystem/Repositories/SeatingRepository.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
+
       <file leaf-file-name="ActionRepository.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TheatreSystem/src/main/java/com/TPFinalGroupAssign/TheatreSystem/Repositories/ActionRepository.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -98,6 +33,10 @@
       </file>
       <file leaf-file-name="BillboardRepository.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TheatreSystem/src/main/java/com/TPFinalGroupAssign/TheatreSystem/Repositories/BillboardRepository.java">
+
+      <file leaf-file-name="AdminRepository.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TheatreSystem/src/main/java/com/TPFinalGroupAssign/TheatreSystem/Repositories/AdminRepository.java">
+
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
               <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
@@ -108,11 +47,18 @@
           </provider>
         </entry>
       </file>
+
       <file leaf-file-name="ReservationRepository.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TheatreSystem/src/main/java/com/TPFinalGroupAssign/TheatreSystem/Repositories/ReservationRepository.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="102">
-              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+
+      <file leaf-file-name="UserRepository.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TheatreSystem/src/main/java/com/TPFinalGroupAssign/TheatreSystem/Repositories/UserRepository.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="60" lean-forward="false" selection-start-line="5" selection-start-column="60" selection-end-line="5" selection-end-column="60" />
+
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -120,6 +66,146 @@
           </provider>
         </entry>
       </file>
+
+      <file leaf-file-name="HorrorRepository.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TheatreSystem/src/main/java/com/TPFinalGroupAssign/TheatreSystem/Repositories/HorrorRepository.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+
+      <file leaf-file-name="MovieShowRepository.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TheatreSystem/src/main/java/com/TPFinalGroupAssign/TheatreSystem/Repositories/MovieShowRepository.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+
+      <file leaf-file-name="Sci-FiRepository.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TheatreSystem/src/main/java/com/TPFinalGroupAssign/TheatreSystem/Repositories/Sci-FiRepository.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="63" lean-forward="false" selection-start-line="5" selection-start-column="63" selection-end-line="5" selection-end-column="63" />
+
+      <file leaf-file-name="VIPRepository.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TheatreSystem/src/main/java/com/TPFinalGroupAssign/TheatreSystem/Repositories/VIPRepository.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+
+      <file leaf-file-name="DocumentaryRepository.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TheatreSystem/src/main/java/com/TPFinalGroupAssign/TheatreSystem/Repositories/DocumentaryRepository.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+
+      <file leaf-file-name="EconomyRepository.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TheatreSystem/src/main/java/com/TPFinalGroupAssign/TheatreSystem/Repositories/EconomyRepository.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+
+      <file leaf-file-name="AdminService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TheatreSystem/src/main/java/com/TPFinalGroupAssign/TheatreSystem/Services/AdminService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+              <folding />
+
+      <file leaf-file-name="SeatingRepository.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TheatreSystem/src/main/java/com/TPFinalGroupAssign/TheatreSystem/Repositories/SeatingRepository.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+
+            </state>
+          </provider>
+        </entry>
+      </file>
+
+      <file leaf-file-name="BaseService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TheatreSystem/src/main/java/com/TPFinalGroupAssign/TheatreSystem/Services/BaseService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+
+      <file leaf-file-name="ActionRepository.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TheatreSystem/src/main/java/com/TPFinalGroupAssign/TheatreSystem/Repositories/ActionRepository.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+
+      <file leaf-file-name="UserService.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/TheatreSystem/src/main/java/com/TPFinalGroupAssign/TheatreSystem/Services/UserService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+              <folding />
+
+      <file leaf-file-name="BillboardRepository.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TheatreSystem/src/main/java/com/TPFinalGroupAssign/TheatreSystem/Repositories/BillboardRepository.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+
+            </state>
+          </provider>
+        </entry>
+      </file>
+
+      <file leaf-file-name="UserRepository.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TheatreSystem/src/main/java/com/TPFinalGroupAssign/TheatreSystem/Repositories/UserRepository.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="60" lean-forward="false" selection-start-line="5" selection-start-column="60" selection-end-line="5" selection-end-column="60" />
+
+      <file leaf-file-name="ReservationRepository.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TheatreSystem/src/main/java/com/TPFinalGroupAssign/TheatreSystem/Repositories/ReservationRepository.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+
+
       <file leaf-file-name="HorrorRepository.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/TheatreSystem/src/main/java/com/TPFinalGroupAssign/TheatreSystem/Repositories/HorrorRepository.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -130,6 +216,7 @@
           </provider>
         </entry>
       </file>
+
     </leaf>
   </component>
   <component name="FindInProjectRecents">
@@ -179,6 +266,13 @@
         <option value="$PROJECT_DIR$/TheatreSystem/src/main/java/com/TPFinalGroupAssign/TheatreSystem/Repositories/SeatingRepository.java" />
         <option value="$PROJECT_DIR$/TheatreSystem/src/main/java/com/TPFinalGroupAssign/TheatreSystem/Repositories/BillboardRepository.java" />
         <option value="$PROJECT_DIR$/TheatreSystem/src/main/java/com/TPFinalGroupAssign/TheatreSystem/Repositories/ReservationRepository.java" />
+
+        <option value="$PROJECT_DIR$/TheatreSystem/src/main/java/com/TPFinalGroupAssign/TheatreSystem/Repositories/HorrorRepository.java" />
+        <option value="$PROJECT_DIR$/TheatreSystem/src/main/java/com/TPFinalGroupAssign/TheatreSystem/Repositories/Sci-FiRepository.java" />
+        <option value="$PROJECT_DIR$/TheatreSystem/src/main/java/com/TPFinalGroupAssign/TheatreSystem/Repositories/DocumentaryRepository.java" />
+        <option value="$PROJECT_DIR$/TheatreSystem/src/main/java/com/TPFinalGroupAssign/TheatreSystem/Services/AdminService.java" />
+        <option value="$PROJECT_DIR$/TheatreSystem/src/main/java/com/TPFinalGroupAssign/TheatreSystem/Services/UserService.java" />
+
       </list>
     </option>
   </component>
@@ -333,6 +427,50 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+
+              <option name="myItemId" value="Services" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TP2FinalGroupProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TP2FinalGroupProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TheatreSystem" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TPFinalGroupAssign" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TheatreSystem" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+
               <option name="myItemId" value="Repositories" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -870,12 +1008,20 @@
       <workItem from="1509874955797" duration="735000" />
       <workItem from="1509875976423" duration="641000" />
       <workItem from="1509876722787" duration="167000" />
+
+      <workItem from="1509876956590" duration="16488000" />
+
       <workItem from="1509876956590" duration="14539000" />
+
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+
+    <option name="totallyTimeSpent" value="18031000" />
+
     <option name="totallyTimeSpent" value="16082000" />
+
   </component>
   <component name="ToolWindowManager">
     <frame x="-1368" y="-56" width="1376" height="784" extended-state="6" />
@@ -892,7 +1038,11 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297546" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297546" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26139817" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -1300,6 +1450,7 @@
         </state>
       </provider>
     </entry>
+
     <entry file="file://$PROJECT_DIR$/TheatreSystem/src/main/java/com/TPFinalGroupAssign/TheatreSystem/Repositories/UserRepository.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -1310,6 +1461,7 @@
         </state>
       </provider>
     </entry>
+
     <entry file="file://$PROJECT_DIR$/TheatreSystem/src/main/java/com/TPFinalGroupAssign/TheatreSystem/Repositories/MovieShowRepository.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -1378,8 +1530,67 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/TheatreSystem/src/main/java/com/TPFinalGroupAssign/TheatreSystem/Repositories/HorrorRepository.java">
       <provider selected="true" editor-type-id="text-editor">
+
+        <state relative-caret-position="119">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TheatreSystem/src/main/java/com/TPFinalGroupAssign/TheatreSystem/Repositories/Sci-FiRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="63" lean-forward="false" selection-start-line="5" selection-start-column="63" selection-end-line="5" selection-end-column="63" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TheatreSystem/src/main/java/com/TPFinalGroupAssign/TheatreSystem/Repositories/DocumentaryRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TheatreSystem/src/main/java/com/TPFinalGroupAssign/TheatreSystem/Repositories/UserRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="60" lean-forward="false" selection-start-line="5" selection-start-column="60" selection-end-line="5" selection-end-column="60" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TheatreSystem/src/main/java/com/TPFinalGroupAssign/TheatreSystem/Services/BaseService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TheatreSystem/src/main/java/com/TPFinalGroupAssign/TheatreSystem/Services/AdminService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TheatreSystem/src/main/java/com/TPFinalGroupAssign/TheatreSystem/Services/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+
           <folding />
         </state>
       </provider>
